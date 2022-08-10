@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @typutami
-- 👀 I’m interested in Data Scientist and Creative Writing
+- 👀 I’m interested in Data Scientist and Integration System
 - 🌱 I’m currently learning on Data
 
 <!---
